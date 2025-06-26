@@ -2,19 +2,6 @@
 <h3 align="center">A passionate Builder (Product Manager & Advanced Analytics Professional)</h3>
 
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/praveendommalapati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="praveendommalapati" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-
-
-
 - 🔭 I’m currently working on [Jecure](www.jecure.shop)
 
 - 🌱 I’m currently learning **Advanced Analytics & ML**
@@ -78,3 +65,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/praveendommalapati/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="praveendommalapati" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
