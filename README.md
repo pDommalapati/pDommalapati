@@ -12,9 +12,7 @@
   </a>
 </div>
 
-###
 
-###
 
 
 - 🔭 I’m currently working on [Jecure](www.jecure.shop)
