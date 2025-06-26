@@ -1,6 +1,38 @@
 <h1 align="center">Hey 👋What's Up? ❤️ I'm Praveen Dommalapati</h1>
 <h3 align="center">A passionate Builder (Product Manager & Advanced Analytics Professional)</h3>
 
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/praveendommalapati/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="praveendommalapati" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+###
+
+
+- 🔭 I’m currently working on [Jecure](www.jecure.shop)
+
+- 🌱 I’m currently learning **Advanced Analytics & ML**
+
+- 🤝 I’m looking for help with **Patent Technology**
+
+- 👨‍💻 All of my projects are available at [www.praveendommalapati.com](www.praveendommalapati.com)
+
+- 💬 Ask me about **Analytics, Product Management**
+
+- 📫 How to reach me **dommalapatipraveen@gmail.com**
+
+- ⚡ Fun fact **I can work 72hrs Straight : -)**
+
+<h1 align="center">MY STACK</h1>
+
 ###
 
 <div align="center">
@@ -48,31 +80,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/praveendommalapati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="praveendommalapati" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-###
-
-
-- 🔭 I’m currently working on [Jecure](www.jecure.shop)
-
-- 🌱 I’m currently learning **Advanced Analytics & ML**
-
-- 🤝 I’m looking for help with **Patent Technology**
-
-- 👨‍💻 All of my projects are available at [www.praveendommalapati.com](www.praveendommalapati.com)
-
-- 💬 Ask me about **Analytics, Product Management**
-
-- 📫 How to reach me **dommalapatipraveen@gmail.com**
-
-- ⚡ Fun fact **I can work 72hrs Straight : -)**
