@@ -72,6 +72,7 @@
 </div>
 
 ###
+<h1 align="center">CONNECT WITH ME</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/praveendommalapati/" target="_blank">
