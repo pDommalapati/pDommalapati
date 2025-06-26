@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋What's Up? ❤️ I'm Praveen Dommalapati</h1>
-<h3 align="center">A passionate Builder (Product Manager & Data Scientist)</h3>
+<h3 align="center">A passionate Builder (Product Manager & Advanced Analytics Professional)</h3>
 
 ###
 
