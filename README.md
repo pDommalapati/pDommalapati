@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dommalapatipraveen@gmail.com**
 
-- ⚡ Fun fact **I can work 72hrs Straight : -)**
+- ⚡ Fun fact **I can work 24hrs Straight : -)**
 
 <h1 align="center">MY STACK</h1>
 
