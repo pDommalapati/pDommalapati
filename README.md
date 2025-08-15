@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Builder (Product Manager & Advanced Analytics Professional)</h3>
 
 
-- 🔭 I’m currently working on [Jecure](www.jecure.shop)
+- 🔭 I’m currently working on [[Jecure](www.jecure.shop)](https://www.jecure.shop/)
 
 - 🌱 I’m currently learning **Advanced Analytics & ML**
 
