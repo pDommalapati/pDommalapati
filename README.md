@@ -1,16 +1,16 @@
 <h1 align="center">Hey 👋What's Up?  I'm Praveen Dommalapati ❤️</h1>
-<h3 align="center">A passionate Builder (Product Manager & Advanced Analytics Professional)</h3>
+<h3 align="center">A passionate Builder (AI Engineer & Advanced Analytics Professional)</h3>
 
 
 - 🔭 I’m currently working on https://www.jecure.shop/
 
-- 🌱 I’m currently learning **Advanced Analytics & ML**
+- 🌱 I’m currently learning & Experimenting **Recursive Language Models**
 
 - 🤝 I’m looking for help with **Patent Technology**
 
 - 👨‍💻 All of my projects are available at [www.praveendommalapati.com](www.praveendommalapati.com)
 
-- 💬 Ask me about **Analytics, Product Management**
+- 💬 Ask me about **Analytics, Product Innovation, Data Science, Software Dev**
 
 - 📫 How to reach me **dommalapatipraveen@gmail.com**
 
